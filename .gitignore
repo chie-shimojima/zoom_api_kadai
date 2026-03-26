@@ -1,0 +1,16 @@
+.env
+.venv
+__pycache__/
+# secrets
+.env
+
+# venv
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# meeting output
+meeting_info.json
